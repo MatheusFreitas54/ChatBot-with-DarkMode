@@ -1,2 +1,2 @@
 # ChatBot-with-DarkMode
-ChatBot consumindo api do ChatGpt junto com Modo Escuro e Claro
+Desenvolvido um ChatBot Custumizado consumindo api do ChatGpt baseado em seu design, mas com a Adição do Modo Dark a Aplicação.
